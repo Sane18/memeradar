@@ -8,12 +8,7 @@ MemeRadar pairs a marketing landing page with a full trading terminal. Sign in w
 
 ## Demo
 
-> 📹 **Demo video — _add here_**
-
-<!-- After pushing: open README.md on GitHub → click the pencil (Edit) → drag your
-     demo video into the editor. GitHub uploads it and inserts a
-     https://github.com/user-attachments/assets/... link that plays inline.
-     Replace the line above with that link, then commit. -->
+> https://github.com/user-attachments/assets/76ae9afa-fd01-4d3d-b365-32018a81ed93
 
 ---
 
