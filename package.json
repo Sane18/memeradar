@@ -1,0 +1,35 @@
+{
+  "name": "memeradar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MemeRadar — a full-stack Solana trading app (landing + trading terminal).",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@privy-io/react-auth": "^2.13.0",
+    "@solana-program/system": "^0.7.0",
+    "@solana-program/token": "^0.5.1",
+    "@solana/kit": "^2.3.0",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.95.3",
+    "@supabase/supabase-js": "^2.108.2",
+    "clsx": "^2.1.1",
+    "lightweight-charts": "^4.2.0",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2"
+  }
+}
